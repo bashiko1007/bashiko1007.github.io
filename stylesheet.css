@@ -140,7 +140,7 @@
     border-radius: 50%;
     height: 300px;
     width: 300px;
-    background-image: url("/img/adog.jpg");
+    background-image: url("https://github.com/bashiko1007/bashiko1007.github.io/blob/main/adog.jpg?raw=true");
     background-position:50% -5%;
 }
 
